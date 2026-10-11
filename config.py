@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8729235570:AAHtlsdBhenTt6CYepGxQtjg7Z5gDKaFoEw")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8729235570:AAEh0KlTMNBr-AFmMka8aNaMLn3U9bGtQrA")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "2010030869"))
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://baza_5i6m_user:lryoKfPr9bKPqWsEihrWLTuavA4WuOVo@dpg-db5ggblckfvc73a4m3t0-a.oregon-postgres.render.com/baza_5i6m")
 
